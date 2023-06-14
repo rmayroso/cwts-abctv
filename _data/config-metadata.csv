@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+creator,Creator/s,
 date,Date Created,
+season,Season,
 description,Description,
 subject,Subjects,true
-location,Location
+location,Venue
 latitude,Latitude
 longitude,Longitude
+video_links,Full Video Recording
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+language,Language/s
 rights,Rights,
 rightsstatement,Rights Statement,,true
